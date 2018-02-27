@@ -1,0 +1,70 @@
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe.config
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.pdb
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csprojResolveAssemblyReference.cache
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityQuestions.resources
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityTester.resources
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Properties.Resources.resources
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csproj.GenerateResource.Cache
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.exe
+C:\internet programming 1\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.pdb
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe.config
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.exe
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.pdb
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.pdb
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csprojResolveAssemblyReference.cache
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityQuestions.resources
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityTester.resources
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Properties.Resources.resources
+C:\Users\English\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csproj.GenerateResource.Cache
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe.config
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.exe
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.pdb
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.pdb
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityQuestions.resources
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityTester.resources
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Properties.Resources.resources
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csproj.GenerateResource.Cache
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormMultipleIntelligence.resources
+C:\Users\AMANDEEP\Desktop\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Form_Results.resources
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe.config
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.exe
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.pdb
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.pdb
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormMultipleIntelligence.resources
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Form_Results.resources
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityQuestions.resources
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityTester.resources
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Properties.Resources.resources
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Nariman Mansour\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormInstruction.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe.config
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.exe
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.pdb
+C:\nariman\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe
+C:\nariman\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.pdb
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csprojResolveAssemblyReference.cache
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormInstruction.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormMultipleIntelligence.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Form_Results.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityQuestions.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityTester.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Properties.Resources.resources
+C:\nariman\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csproj.GenerateResource.Cache
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe.config
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.exe
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.pdb
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.exe
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\bin\Debug\Personality Tester Application.pdb
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csprojResolveAssemblyReference.cache
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormInstruction.resources
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.FormMultipleIntelligence.resources
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Form_Results.resources
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityQuestions.resources
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.PersonalityTester.resources
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality_Tester_Application.Properties.Resources.resources
+C:\Users\Manpreet\Documents\Internship1\PersonalityTesterApplicationAmandeep&Manpreet\Personality Tester Application\Personality Tester Application\obj\Debug\Personality Tester Application.csproj.GenerateResource.Cache
